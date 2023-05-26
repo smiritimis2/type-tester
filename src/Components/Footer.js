@@ -25,23 +25,23 @@ const Footer = () => {
   }
 
   const handleGithub = (e) =>{
-    window.open("https://github.com/supriyorudra/typing-master", '_blank');
+    window.open("https://github.com/smiritimis2/type-tester", '_blank');
   }
 
   const handleLinkedin = () =>{
-    window.open("https://www.linkedin.com/in/supriyo-rudra-7a0648237/", '_blank');
+    window.open("https://www.linkedin.com/in/smiriti-mishra-a8b11b236", '_blank');
   }
 
   const handleFacebook = () =>{
-    window.open("https://www.facebook.com/supriyo.rudra.5", '_blank');
+    window.open("https://www.facebook.com/smiriti.mishra.5", '_blank');
   }
   
   const handleDocs = () =>{
-    window.open("https://docs.google.com/document/d/1HtOnyhMdCwsNbXUzMSo07YaCthKs8O2ZKjGlYUWQpQE/edit?usp=sharing", '_blank');
+    window.open("https://docs.google.com/document/d/1js5Datvwp6PMXTmSlg-1tt3etkx6cwlfBe25L7T4GpI/edit#", '_blank');
   }
 
   const handleInstagram = () =>{
-    window.open("https://www.instagram.com/mr_s.r.o/", '_blank');
+    window.open("https://instagram.com/smiriti.mishra.5", '_blank');
   }
 
   return (
