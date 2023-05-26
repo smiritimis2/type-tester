@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="logo" onClick={handleHome}>
-        Type<span>Master</span>
+        Type<span>Tester</span>
       </div>
       <div className="user-icon">
         {/* user icon  */}
